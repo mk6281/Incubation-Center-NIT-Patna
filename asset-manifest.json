@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bafb3de1.css",
+    "main.js": "./static/js/main.52257c22.js",
+    "static/media/IMG20230921194023.jpg": "./static/media/IMG20230921194023.35d04bf920cedebeaeff.jpg",
+    "static/media/sell_bg.png": "./static/media/sell_bg.8d245d35267faaef521f.png",
+    "static/media/dubai.jpg": "./static/media/dubai.593d973b7e03effbfde5.jpg",
+    "static/media/5487146.jpg": "./static/media/5487146.c89ebaca0272df331e0f.jpg",
+    "static/media/primeicons.svg": "./static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/517669.jpg": "./static/media/517669.b2d299d2d28bc2511147.jpg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "./static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "./static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/image.jpg.jpg": "./static/media/image.jpg.54c7a479747273fe238a.jpg",
+    "static/media/6895209.webp": "./static/media/6895209.7d06230a36ee4603749b.webp",
+    "static/media/primeicons.eot": "./static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "./static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "./static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/bicycle-1280x720.jpg": "./static/media/bicycle-1280x720.4bb01443bdb86e36533c.jpg",
+    "static/media/primeicons.woff2": "./static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "./index.html",
+    "main.bafb3de1.css.map": "./static/css/main.bafb3de1.css.map",
+    "main.52257c22.js.map": "./static/js/main.52257c22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafb3de1.css",
+    "static/js/main.52257c22.js"
+  ]
+}
