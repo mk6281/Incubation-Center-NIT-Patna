@@ -67,17 +67,21 @@ function ScrollToHash() {
           <Route  path="/" element={<Homes />}/> 
           <Route index element={<Homes />}/>
           <Route path="/pag" element={<Pag/>}/>
+          <Route path="/gallery" element={<Gallery1/>}/>
           <Route path="/timeline" element={<Timeline/>}/>
           <Route  path="Notice/index.js" element={<Notice/>}/> 
           <Route path="/login" element={<Login/>}/>
           <Route  path="Notice" element={<Notice/>}/> 
+
           <Route path='/professor' element={<Professor />} />
           <Route path='/student' element={<Student />}/>
           <Route path="/gallery" element={<Gallery1/>}/>
+
           <Route path="/talksmore" element={<Talks_LitsenMore/>}/>
 
     
         </Routes>
+        {/* <Gallery1/> */}
         {/* <Gallery/> */}
         {/* <Footer/> */}
         
@@ -90,7 +94,6 @@ function ScrollToHash() {
         
         {/* <Talks_LitsenMore/> */}
        
-        {/* <Gallery/> */}
          
         {/* <Faqs/> */}
     </div>
